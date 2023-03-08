@@ -1,8 +1,8 @@
 #contanier {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 img {
-    width: 400px;
-    height: 300px;
+  width: 500px;
+  height: 300px;
 }
